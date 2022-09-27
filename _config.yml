@@ -39,5 +39,11 @@ texture:
 # theme: texture
 
 plugins:
+<<<<<<< HEAD
   - jekyll-seo-tag
 #  - jekyll-feed
+
+  
+repository:yumueat/yumueat.github.io
+github_url:https://github.com/yumueat
+url:https://yumueat.github.io
